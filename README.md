@@ -4,4 +4,4 @@ Good Python, Guy! is a web front-end for GPG. It does not offer complete GPG fun
 
 The source-code for our webapp is freely available here. You are free to use, modify, and distribute it however you want. We do ask that you give credit to us though (but we can't and won't force you to).
 
-We're using the Python Flask microframework for our backend, Ember.js and Bootstrap for the frontend, and we're powering everything on a Digital Ocean server.
+We're using the Python Flask microframework for our backend, Ember.js and Bootstrap for the frontend, and we're powering everything on a Linode server.
